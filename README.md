@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Using D3.js 
 Introduction: 
@@ -6,3 +7,6 @@ D3 allows you to bind arbitrary data to a Document Object Model (DOM), and then 
 <script src="https://d3js.org/d3.v4.min.js"></script>
 
 Workspace: Cloud9 IDE
+=======
+# collision_detect
+>>>>>>> 4c4082ef69ad2ac79b55f4e33e6c79f7c1705fe7
